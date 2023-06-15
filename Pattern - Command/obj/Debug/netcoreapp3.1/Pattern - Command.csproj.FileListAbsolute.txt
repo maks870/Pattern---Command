@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Pattern - Command\Pattern - Command\bin\Debug\netcoreapp3.1\Pattern - Command.exe
+C:\Users\Administrator\source\repos\Pattern - Command\Pattern - Command\bin\Debug\netcoreapp3.1\Pattern - Command.deps.json
+C:\Users\Administrator\source\repos\Pattern - Command\Pattern - Command\bin\Debug\netcoreapp3.1\Pattern - Command.runtimeconfig.json
+C:\Users\Administrator\source\repos\Pattern - Command\Pattern - Command\bin\Debug\netcoreapp3.1\Pattern - Command.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Pattern - Command\Pattern - Command\bin\Debug\netcoreapp3.1\Pattern - Command.dll
+C:\Users\Administrator\source\repos\Pattern - Command\Pattern - Command\bin\Debug\netcoreapp3.1\Pattern - Command.pdb
+C:\Users\Administrator\source\repos\Pattern - Command\Pattern - Command\obj\Debug\netcoreapp3.1\Pattern - Command.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Pattern - Command\Pattern - Command\obj\Debug\netcoreapp3.1\Pattern - Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Pattern - Command\Pattern - Command\obj\Debug\netcoreapp3.1\Pattern - Command.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Pattern - Command\Pattern - Command\obj\Debug\netcoreapp3.1\Pattern - Command.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Pattern - Command\Pattern - Command\obj\Debug\netcoreapp3.1\Pattern - Command.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Pattern - Command\Pattern - Command\obj\Debug\netcoreapp3.1\Pattern - Command.dll
+C:\Users\Administrator\source\repos\Pattern - Command\Pattern - Command\obj\Debug\netcoreapp3.1\Pattern - Command.pdb
+C:\Users\Administrator\source\repos\Pattern - Command\Pattern - Command\obj\Debug\netcoreapp3.1\Pattern - Command.genruntimeconfig.cache
